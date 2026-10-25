@@ -4,7 +4,7 @@ NutriVision.Ai is an AI-powered web application designed to analyze food images 
 
 ## 🚀 Live Demo
 Experience the live application here:
-👉 [Paste your Hugging Face Space or Deployment URL here]
+👉 [https://huggingface.co/spaces/mahrukh1saddi/NutriVision.AI ]
 
 ## ✨ Key Features
 * **AI Image Recognition:** Instantly identifies food items from uploaded photos or camera scans.
